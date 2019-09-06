@@ -9,10 +9,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceRoot}/target/debug/the_end_ex.exe",
-            "args": [
-                "d:\\Games\\TheEndIsNigh\\loader.gpak",
-                "d:\\Games\\TheEndIsNigh\\!!"
-            ],
+            "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
